@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/felixsebastian/codespace-node/issues"
   },
-  "homepage": "https://github.com/felixsebastian/codespace-node#readme"
+  "homepage": "https://github.com/felixsebastian/codespace-node#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }

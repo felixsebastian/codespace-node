@@ -1,9 +1,13 @@
 {
   "image": "mcr.microsoft.com/vscode/devcontainers/typescript-node",
-  "forwardPorts": [5500],
+  "forwardPorts": [
+    3000
+  ],
   "customizations": {
     "vscode": {
-      "extensions": ["dbaeumer.vscode-eslint"]
+      "extensions": [
+        "dbaeumer.vscode-eslint"
+      ]
     }
   }
 }
